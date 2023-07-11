@@ -228,8 +228,6 @@ Route::get('/', function () {
             ],
         ],
     ];
-
-    dd($fumetti);
     return view('home', compact('fumetti'));
-});
+}) -> name('home');
 
