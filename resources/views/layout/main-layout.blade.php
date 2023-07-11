@@ -15,7 +15,6 @@
 <body>
     @include('components.header')
 
-    <h1>root</h1>
 
     @yield('content')
 

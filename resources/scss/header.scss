@@ -1,0 +1,21 @@
+header{
+
+    background-color: aqua;
+    nav{
+        height: 100px;
+        margin-top: 10px;
+        background-color: #fff;
+        // ul {
+        //     list-style: none;
+        //     display: flex;
+        //     gap: 8px;
+        // }
+    }
+    #hero{
+            height: 400px;
+            background-image: url('../img/jumbotron.jpg');
+            background-size: cover;
+        }
+
+
+}
