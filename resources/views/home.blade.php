@@ -5,7 +5,7 @@
 @endsection
 
 @section('content')
-    <main class="bg-dark">
+    <main id="home" class="bg-dark">
         <div class="container d-flex flex-wrap">
 
             @foreach ($fumetti as $fumetto)
